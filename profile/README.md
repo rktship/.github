@@ -6,6 +6,7 @@ In a nutshell, we are a tech company that specializes in SaaS solutions and mode
 
 ## Technologies we use
 
+<p float="left">
 <img alt="CSS3" src="./profile/images/css3.svg" width="50">
 <img alt="Docker" src="./profile/images/docker.svg" width="50">
 <img alt="Git" src="./profile/images/git.svg" width="50">
@@ -21,6 +22,7 @@ In a nutshell, we are a tech company that specializes in SaaS solutions and mode
 <img alt="Redis" src="./profile/images/redis.svg" width="50">
 <img alt="TypeScript" src="./profile/images/typescript.svg" width="50">
 <img alt="Vercel" src="./profile/images/vercel.svg" width="50">
+</p>
 
 ## Where to find us
 
