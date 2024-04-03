@@ -6,8 +6,8 @@ In a nutshell, we are a tech company that specializes in SaaS solutions and mode
 
 ## Technologies we use
 
-<img alt="CSS3" src="./images/css3.svg" width="50">
-<img alt="Docker" src="./images/docker.svg" width="50">
+<img alt="CSS3" src="./profile/images/css3.svg" width="50">
+<img alt="Docker" src="./profile/images/docker.svg" width="50">
 <img alt="Git" src="./images/git.svg" width="50">
 <img alt="GraphQL" src="./images/graphql.svg" width="50">
 <img alt="HTML5" src="./images/html5.svg" width="50">
@@ -23,4 +23,5 @@ In a nutshell, we are a tech company that specializes in SaaS solutions and mode
 <img alt="Vercel" src="./images/vercel.svg" width="50">
 
 ## Where to find us
+
 [x.com/rktship](https://x.com/rktship)
