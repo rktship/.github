@@ -5,18 +5,22 @@ We build products people love, that inspire, with purpose, at scale!
 In a nutshell, we are a tech company that specializes in SaaS solutions and modern web development.
 
 ## Technologies we use
-![CSS3](/images/css3.svg | width=50)
-![Docker](/images/docker.svg | width=50)
-![Git](/images/git.svg | width=50)
-![GraphQL](/images/graphql.svg | width=50)
-![HTML5](/images/html5.svg | width=50)
-![JavaScript](/images/javascript.svg | width=50)
-![NextJS](/images/nextjs.svg | width=100)
-![NodeJS](/images/nodejs.svg | width=50)
-![PostGres](/images/postgresql.svg | width=50)
-![React](/images/react.svg | width=50)
-![Redis](/images/redis.svg | width=50)
-![TypeScript](/images/typescript.svg | width=50)
+
+<img alt="CSS3" src="../images/css3.svg" width="50">
+<img alt="Docker" src="../images/docker.svg" width="50">
+<img alt="Git" src="../images/git.svg" width="50">
+<img alt="GraphQL" src="../images/graphql.svg" width="50">
+<img alt="HTML5" src="../images/html5.svg" width="50">
+<img alt="JavaScript" src="../images/javascript.svg" width="50">
+<img alt="Neon" src="../images/neon.svg" width="50">
+<img alt="NextJS" src="../images/nextjs.svg" width="50">
+<img alt="NodeJS" src="../images/nodejs.svg" width="50">
+<img alt="OpenAI" src="../images/openai.svg" width="50">
+<img alt="PostGres" src="../images/postgresql.svg" width="50">
+<img alt="React" src="../images/react.svg" width="50">
+<img alt="Redis" src="../images/redis.svg" width="50">
+<img alt="TypeScript" src="../images/typescript.svg" width="50">
+<img alt="Vercel" src="../images/vercel.svg" width="50">
 
 ## Where to find us
 [x.com/rktship](https://x.com/rktship)
